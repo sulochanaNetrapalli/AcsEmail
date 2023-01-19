@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Project1"
+    "\\Project1",
+    "\\Project1\\client-app",
+    "\\Project1\\client-app\\src\\components"
   ],
+  "SelectedNode": "\\Project1\\client-app\\src",
   "PreviewInSolutionExplorer": false
 }
